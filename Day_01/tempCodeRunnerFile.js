@@ -1,1 +1,0 @@
-nsole.log("The sum of " + num1 + " and " + num2 + " is: 
